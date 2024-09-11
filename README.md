@@ -5,7 +5,7 @@
 - I like Java, Spring boot 
 - I love debating about development and sharing innovative ideas
 
-### Concat
+### Contact
 <a href="mailto:qns0147@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qns0147@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### ⚒ Stack
