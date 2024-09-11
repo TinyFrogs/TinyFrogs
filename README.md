@@ -18,8 +18,8 @@
 
 
 ###  💻Project 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheUpperPart&repo=leaguehub-backend&show_owner=true)](https://github.com/TheUpperPart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoAaDream&repo=Giftogether&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheUpperPart&repo=leaguehub-backend&show_owner=true&theme=tokyonight)](https://github.com/TheUpperPart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoAaDream&repo=Giftogether&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 👨‍💻 Info
