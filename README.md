@@ -13,13 +13,15 @@
 <img src="https://img.shields.io/badge/Java-D9411E?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
 
 
 ###  💻Project 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TinyFrogs&repo=DOCSHUND&show_owner=true&theme=tokyonight)](https://github.com/TinyFrogs/DOCSHUND)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheUpperPart&repo=leaguehub-backend&show_owner=true&theme=tokyonight)](https://github.com/TheUpperPart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoAaDream&repo=Giftogether&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoAaDream&repo=Giftogether&show_owner=true&theme=tokyonight)](https://github.com/MoAaDream/Giftogether)
 
 
 ### 👨‍💻 Info
