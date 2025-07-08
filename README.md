@@ -19,9 +19,10 @@
 
 
 ###  💻Project 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TinyFrogs&repo=Memozy&show_owner=true&theme=tokyonight)](https://github.com/TinyFrogs/Memozy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoShoot&repo=DOCSHUND&show_owner=true&theme=tokyonight)](https://github.com/NekoShoot/DOCSHUND)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheUpperPart&repo=leaguehub-backend&show_owner=true&theme=tokyonight)](https://github.com/TheUpperPart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoAaDream&repo=Giftogether&show_owner=true&theme=tokyonight)](https://github.com/MoAaDream/Giftogether)
+
 
 
 ### 👨‍💻 Info
